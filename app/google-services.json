@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "42110853008",
+    "firebase_url": "https://teacher-tools-ec165.firebaseio.com",
+    "project_id": "teacher-tools-ec165",
+    "storage_bucket": "teacher-tools-ec165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42110853008:android:d70b5e2aecf76ebd8b1d15",
+        "android_client_info": {
+          "package_name": "com.mrgreenapps.androidusb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42110853008-fujhr8gn1aea4vbquv3jfqsaiin48h06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCzAb2O1FczxkVyNksY4t81IzJA2OEFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42110853008-fujhr8gn1aea4vbquv3jfqsaiin48h06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42110853008:android:0cb78a755ec37310",
+        "android_client_info": {
+          "package_name": "com.mrgreenapps.teathertools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42110853008-r2liht421mk335mon1erad5gql8sdctg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrgreenapps.teathertools",
+            "certificate_hash": "96ee31e7e46cd2dd9d9780afdc59eb78b20dac25"
+          }
+        },
+        {
+          "client_id": "42110853008-fujhr8gn1aea4vbquv3jfqsaiin48h06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCzAb2O1FczxkVyNksY4t81IzJA2OEFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42110853008-fujhr8gn1aea4vbquv3jfqsaiin48h06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42110853008:android:47c08dbed57564dc8b1d15",
+        "android_client_info": {
+          "package_name": "nl.conocidoic.firebasemlvisionpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42110853008-fujhr8gn1aea4vbquv3jfqsaiin48h06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCzAb2O1FczxkVyNksY4t81IzJA2OEFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42110853008-fujhr8gn1aea4vbquv3jfqsaiin48h06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
